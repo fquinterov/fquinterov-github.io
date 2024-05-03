@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="light"
+<html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
   data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   
@@ -32,8 +32,8 @@
     integrity="sha512-rFmhuOqv73OcEp0SeHrCn2pCC8s0jHruyJSajQt9bCAjdmwWnRS5Axt1FQTrPJdu/nhv7BNbNApJhorNjKpBJw==" />
   
   
-  <script type="text/javascript" src="/js/appearance.min.c1f4def16e736787f9c5879132834acce18304f6ea6fc703f704f1f55aa1917727f7b9d2386fafde2508df192a79a670972333db617e3b3e1562db27b659df19.js"
-    integrity="sha512-wfTe8W5zZ4f5xYeRMoNKzOGDBPbqb8cD9wTx9VqhkXcn97nSOG&#43;v3iUI3xkqeaZwlyMz22F&#43;Oz4VYtsntlnfGQ=="></script>
+  <script type="text/javascript" src="/js/appearance.min.1aad647ee2f1ea18013755655951d614b0089256f8aa7d628f384bdcbb8e7820df796bd0ba1960db8fa9e9dc60bfbee53e9ef6e315fe6f54878b2fc5e1f0f6d6.js"
+    integrity="sha512-Gq1kfuLx6hgBN1VlWVHWFLAIklb4qn1ijzhL3LuOeCDfeWvQuhlg24&#43;p6dxgv77lPp724xX&#43;b1SHiy/F4fD21g=="></script>
   
   
   
@@ -43,18 +43,21 @@
   
   
   
-  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.3f354537071ffde8a37d7f5b5eb0fea76345387a132a0c386682cae063b66ebb6285757ca88352be474056280043b16f4f53986014c1f818a9aabf17220ae601.js"
-    integrity="sha512-PzVFNwcf/eijfX9bXrD&#43;p2NFOHoTKgw4ZoLK4GO2brtihXV8qINSvkdAVigAQ7FvT1OYYBTB&#43;Bipqr8XIgrmAQ==" data-copy="" data-copied=""></script>
+  
+  
+  
+  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.949e93ad68f98f91b41032983a7aee8da40cd845c548ac475ad1b4771bb9d273da1fb4d059d4d2f8f724a6a7ce5962b522b302ed72b43b8a1057a0e4e3ffc58e.js"
+    integrity="sha512-lJ6TrWj5j5G0EDKYOnrujaQM2EXFSKxHWtG0dxu50nPaH7TQWdTS&#43;PckpqfOWWK1IrMC7XK0O4oQV6Dk4//Fjg==" data-copy="" data-copied=""></script>
   
   
   <script src="/js/zoom.min.js"></script>
   
   
   
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-  <link rel="manifest" href="/site.webmanifest" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v3">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v3">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v3">
+<link rel="manifest" href="/site.webmanifest"> 
   
   
   
@@ -140,7 +143,12 @@
   </div>
   
   
-  <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+  <div class="min-h-[148px]"></div>
+<div class="fixed inset-x-0 min-h-[130px] opacity-65 pl-[24px] pr-[24px] bg-gradient-to-b from-neutral from-60% dark:from-neutral-800 to-transparent mix-blend-normal" style="z-index:80"></div>
+<div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
+  <div class="relative max-w-[64rem] ml-auto mr-auto">
+    <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
     
     
@@ -336,6 +344,16 @@
 
 
 
+
+  </div>
+</div>
+<script>
+  window.addEventListener('scroll', function (e) {
+    var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    var background_blur = document.getElementById('menu-blur');
+    background_blur.style.opacity = (scroll / 300);
+  });
+</script>
 
   
   <div class="relative flex flex-col grow">
