@@ -118,13 +118,13 @@ defaultBackgroundImage = "bgfer.webp" # used as default for background images
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyAyey-xmvS3lyjomiOynla3V7AsLE2YP0w"
+  authDomain = "fquinterov-gh-pages.firebaseapp.com"
+  projectId = "fquinterov-gh-pages"
+  storageBucket = "fquinterov-gh-pages.appspot.com"
+  messagingSenderId = "789742086396"
+  appId = "1:789742086396:web:307ce5155cf3a810314f7"
+  measurementId = "G-844DV6H5XN"
 
 [fathomAnalytics]
   # site = "ABC12345"

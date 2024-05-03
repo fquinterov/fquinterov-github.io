@@ -10,16 +10,6 @@
     <lastBuildDate>Sat, 18 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/authors/sergio-sanchez/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Self-supervised Deep-Learning Segmentation of Corneal Endothelium Specular Microscopy Images</title>
-      <link>//localhost:1313/publications/self2023-copy/</link>
-      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/publications/self2023-copy/</guid>
-      <description>ColCACI 2023 / Communications in Computer and Information Science, vol 1865.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/publications/self2023-copy/featured.png" />
-    </item>
-    
-    <item>
-      <title>Self-supervised Deep-Learning Segmentation of Corneal Endothelium Specular Microscopy Images</title>
       <link>//localhost:1313/publications/self2023/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
       
