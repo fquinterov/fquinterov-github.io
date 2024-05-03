@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BEST PAPER AWARD on Fernando Quintero</title>
+    <link>//localhost:1313/tags/best-paper-award/</link>
+    <description>Recent content in BEST PAPER AWARD on Fernando Quintero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; _2024 Fernando Quintero. All Rights Reserved._ :heart:</copyright>
+    <lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/best-paper-award/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Regression of Signed Distance Maps for Corneal Endothelium Image Segmentation</title>
+      <link>//localhost:1313/publications/distancemaps2023/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/distancemaps2023/</guid>
+      <description>IEEE Colombian Caribbean Conference (C3), 2023</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/publications/distancemaps2023/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

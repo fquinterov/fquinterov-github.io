@@ -1,7 +1,7 @@
 ---
 title: "Deep Regression of Signed Distance Maps for Corneal Endothelium Image Segmentation"
 destription: "This paper describes a corneal endothelial image segmentation strategy based on a deep regression of a signed distance map (UNet-dm) compared to a classical pixel-wise classification (UNet-Mask). The proposed approach generates cell masks closer to reference masks, improving the mapping of well-defined cell and guttae boundaries. The results reveal enhanced morphometric parameters that align closer to reference values. The study emphasizes a new technique for continuous segmentation, employing a UNet model, demonstrating its promise for accurate segmentation of corneal endothelial cells and presenting it as a valuable alternative to other methods."
-tags: ["publication", "presentation"]
+tags: ["BEST PAPER AWARD","publication", "presentation"]
 authors: ["Fernando Quintero👨‍💻", "Juan Sierra", "Kevin Mendoza", "Lenny A. Romero", "Andres G. Marrugo"]
 date: "2024-02-21"
 ---
