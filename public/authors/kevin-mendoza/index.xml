@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin Mendoza on Fernando Quintero</title>
+    <link>//localhost:1313/authors/kevin-mendoza/</link>
+    <description>Recent content in Kevin Mendoza on Fernando Quintero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; _2024 Fernando Quintero. All Rights Reserved._ :heart:</copyright>
+    <lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/authors/kevin-mendoza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Regression of Signed Distance Maps for Corneal Endothelium Image Segmentation</title>
+      <link>//localhost:1313/publications/distancemaps2023/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/distancemaps2023/</guid>
+      <description>IEEE Colombian Caribbean Conference (C3), 2023</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/publications/distancemaps2023/featured.png" />
+    </item>
+    
+    <item>
+      <title>Assessing Fuchs Corneal Endothelial Dystrophy Using Artificial Intelligence–Derived Morphometric Parameters From Specular Microscopy Images</title>
+      <link>//localhost:1313/publications/fuchs2024/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/fuchs2024/</guid>
+      <description>ColCACI 2023 / Communications in Computer and Information Science, vol 1865.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/publications/fuchs2024/featured.png" />
+    </item>
+    
+    <item>
+      <title>Enhancing Corneal Endothelium Segmentation: A Comparison of Classification and Distance-Map Regression UNets</title>
+      <link>//localhost:1313/publications/enhancing2023/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/enhancing2023/</guid>
+      <description>IEEE Colombian Conference on Communications and Computing (COLCOM), 2023</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/publications/enhancing2023/featured.png" />
+    </item>
+    
+    <item>
+      <title>Self-supervised Deep-Learning Segmentation of Corneal Endothelium Specular Microscopy Images</title>
+      <link>//localhost:1313/publications/self2023-copy/</link>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/self2023-copy/</guid>
+      <description>ColCACI 2023 / Communications in Computer and Information Science, vol 1865.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/publications/self2023-copy/featured.png" />
+    </item>
+    
+    <item>
+      <title>Self-supervised Deep-Learning Segmentation of Corneal Endothelium Specular Microscopy Images</title>
+      <link>//localhost:1313/publications/self2023/</link>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/self2023/</guid>
+      <description>ColCACI 2023 / Communications in Computer and Information Science, vol 1865.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/publications/self2023/featured.png" />
+    </item>
+    
+    <item>
+      <title>Deep neural networks for evaluation of specular microscopy images of the corneal endothelium with Fuchs&#39; dystrophy</title>
+      <link>//localhost:1313/publications/deep2023/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/deep2023/</guid>
+      <description>Proc. SPIE 12527, Pattern Recognition and Tracking XXXIV, 125270P, 2023</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/publications/deep2023/featured.png" />
+    </item>
+    
+    <item>
+      <title>Development and implementation of an optical profilometer by laser triangulation</title>
+      <link>//localhost:1313/publications/profilometer2020/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/profilometer2020/</guid>
+      <description>IX International Congress of Mechatronics Engineering and Automation (CIIMA), 2020</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/publications/profilometer2020/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

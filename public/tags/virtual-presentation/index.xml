@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtual Presentation on Fernando Quintero</title>
+    <link>//localhost:1313/tags/virtual-presentation/</link>
+    <description>Recent content in Virtual Presentation on Fernando Quintero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; _2024 Fernando Quintero. All Rights Reserved._ :heart:</copyright>
+    <lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/virtual-presentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modeling a Structured Light System with Open-Source Software</title>
+      <link>//localhost:1313/publications/modeling2022/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/modeling2022/</guid>
+      <description>Imaging Systems and Applications, 2022</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/publications/modeling2022/featured.png" />
+    </item>
+    
+    <item>
+      <title>Development and implementation of an optical profilometer by laser triangulation</title>
+      <link>//localhost:1313/publications/profilometer2020/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/profilometer2020/</guid>
+      <description>IX International Congress of Mechatronics Engineering and Automation (CIIMA), 2020</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/publications/profilometer2020/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

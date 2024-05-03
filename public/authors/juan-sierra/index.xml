@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan Sierra on Fernando Quintero</title>
+    <link>//localhost:1313/authors/juan-sierra/</link>
+    <description>Recent content in Juan Sierra on Fernando Quintero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; _2024 Fernando Quintero. All Rights Reserved._ :heart:</copyright>
+    <lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/authors/juan-sierra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Regression of Signed Distance Maps for Corneal Endothelium Image Segmentation</title>
+      <link>//localhost:1313/publications/distancemaps2023/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/distancemaps2023/</guid>
+      <description>IEEE Colombian Caribbean Conference (C3), 2023</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/publications/distancemaps2023/featured.png" />
+    </item>
+    
+    <item>
+      <title>Enhancing Corneal Endothelium Segmentation: A Comparison of Classification and Distance-Map Regression UNets</title>
+      <link>//localhost:1313/publications/enhancing2023/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/enhancing2023/</guid>
+      <description>IEEE Colombian Conference on Communications and Computing (COLCOM), 2023</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/publications/enhancing2023/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

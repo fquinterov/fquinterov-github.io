@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raul Vargas on Fernando Quintero</title>
+    <link>//localhost:1313/authors/raul-vargas/</link>
+    <description>Recent content in Raul Vargas on Fernando Quintero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; _2024 Fernando Quintero. All Rights Reserved._ :heart:</copyright>
+    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/authors/raul-vargas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Challenges and opportunities in pixel-wise calibration methods for structured light systems</title>
+      <link>//localhost:1313/publications/pixelwise2023/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/pixelwise2023/</guid>
+      <description>Proc. SPIE 12527, Pattern Recognition and Tracking XXXIV, 125270P, 2023</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/publications/pixelwise2023/featured.png" />
+    </item>
+    
+    <item>
+      <title>Modeling a Structured Light System with Open-Source Software</title>
+      <link>//localhost:1313/publications/modeling2022/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/modeling2022/</guid>
+      <description>Imaging Systems and Applications, 2022</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/publications/modeling2022/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

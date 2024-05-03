@@ -1,12 +1,112 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Blowfish</title>
+    <title>Authors on Fernando Quintero</title>
     <link>//localhost:1313/authors/</link>
-    <description>Recent content in Authors on Blowfish</description>
+    <description>Recent content in Authors on Fernando Quintero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
-    <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; _2024 Fernando Quintero. All Rights Reserved._ :heart:</copyright>
+    <lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Andres G. Marrugo</title>
+      <link>//localhost:1313/authors/andres-g.-marrugo/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/andres-g.-marrugo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fernando Quintero👨‍💻</title>
+      <link>//localhost:1313/authors/fernando-quintero/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/fernando-quintero/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Juan Sierra</title>
+      <link>//localhost:1313/authors/juan-sierra/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/juan-sierra/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kevin Mendoza</title>
+      <link>//localhost:1313/authors/kevin-mendoza/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/kevin-mendoza/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lenny A. Romero</title>
+      <link>//localhost:1313/authors/lenny-a.-romero/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/lenny-a.-romero/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Alejandro Tello</title>
+      <link>//localhost:1313/authors/alejandro-tello/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/alejandro-tello/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Angelica M. Prada</title>
+      <link>//localhost:1313/authors/angelica-m.-prada/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/angelica-m.-prada/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Virgilio Galvis</title>
+      <link>//localhost:1313/authors/virgilio-galvis/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/virgilio-galvis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sergio Sanchez</title>
+      <link>//localhost:1313/authors/sergio-sanchez/</link>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/sergio-sanchez/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Raul Vargas</title>
+      <link>//localhost:1313/authors/raul-vargas/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/raul-vargas/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
