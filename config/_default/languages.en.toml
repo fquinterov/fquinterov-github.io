@@ -8,10 +8,10 @@ title = "Fernando Quintero"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "fq_logo.png"
-   secondaryLogo = "fq_logo.png"
-   description = "My awesome website"
-   copyright = "&copy; _2024 Fernando Quintero. All Rights Reserved._ :heart:"
+  logo = "/fq_logo.png"
+  secondaryLogo = "/fq_logo.png"
+  description = "Researcher / Computer Vision / ML"
+  copyright = "&copy; _2024 Fernando Quintero. All Rights Reserved._ :heart:"
 
  [author]
    name = "Fernando Quintero"
@@ -19,7 +19,7 @@ title = "Fernando Quintero"
    headline = "Researcher / Computer Vision / ML"
    bio = "Researcher / Computer Vision / ML"
    links = [
-     { email = "mailto:fquintero@utb.edu.codepen" },
+     { email = "mailto:fquintero@utb.edu.co" },
      { github = "https://github.com/fquinterov" },
      { linkedin = "https://linkedin.com/in/fquinterov" },
      { orcid = "https://orcid.org/0000-0002-8096-6969" },
