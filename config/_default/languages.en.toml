@@ -1,23 +1,31 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Fernando Quintero"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  logo = "fq_logo.png"
+   secondaryLogo = "fq_logo.png"
+   description = "My awesome website"
+   copyright = "&copy; _2024 Fernando Quintero. All Rights Reserved._ :heart:"
 
-# [author]
-#   name = "Your name here"
-#   image = "img/blowfish_logo.png"
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
+ [author]
+   name = "Fernando Quintero"
+   image = "profile_img.jpg" #"img/blowfish_logo.png"
+   headline = "Researcher / Computer Vision / ML"
+   bio = "Researcher / Computer Vision / ML"
+   links = [
+     { email = "mailto:fquintero@utb.edu.codepen" },
+     { github = "https://github.com/fquinterov" },
+     { linkedin = "https://linkedin.com/in/fquinterov" },
+     { orcid = "https://orcid.org/0000-0002-8096-6969" },
+     { x-twitter = "https://twitter.com/fquinterov" },
+   ]
+
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
